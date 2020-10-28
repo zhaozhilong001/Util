@@ -42,7 +42,7 @@ ext {
     // compile 'com.audienl:super_library:1.0.0'
     PUBLISH_GROUP_ID = 'com.xty.lib'
     PUBLISH_ARTIFACT_ID = 'util'
-    PUBLISH_VERSION = '1.0.0'
+    PUBLISH_VERSION = '1.0.1'
 }
 
 uploadArchives {
